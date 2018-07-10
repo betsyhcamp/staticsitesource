@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Elizabeth H. Camp</title><link href="http://betsyhcamp.github.io/staticsitesource/" rel="alternate"></link><link href="http://betsyhcamp.github.io/staticsitesource/feeds/all.atom.xml" rel="self"></link><id>http://betsyhcamp.github.io/staticsitesource/</id><updated>2018-06-13T09:51:00-07:00</updated><entry><title>First Post</title><link href="http://betsyhcamp.github.io/staticsitesource/first-post.html" rel="alternate"></link><published>2018-06-13T09:51:00-07:00</published><updated>2017-06-13T09:51:00-07:00</updated><author><name>Elizabeth H. Camp</name></author><id>tag:betsyhcamp.github.io,2018-06-13:/staticsitesource/first-post.html</id><summary type="html">&lt;p&gt;This is the summary of the first post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is the very first post!&lt;/p&gt;</content><category term="python"></category><category term="markdown"></category><category term="blog"></category></entry><entry><title>Second Post</title><link href="http://betsyhcamp.github.io/staticsitesource/second-post.html" rel="alternate"></link><published>2018-06-13T09:51:00-07:00</published><updated>2017-06-13T09:51:00-07:00</updated><author><name>Elizabeth H. Camp</name></author><id>tag:betsyhcamp.github.io,2018-06-13:/staticsitesource/second-post.html</id><summary type="html">&lt;p&gt;This is the summary of the second post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is the second post! It will show series and an embedded youtube video.&lt;/p&gt;
+&lt;p&gt;&lt;span class="videobox"&gt;
+                &lt;iframe width="640" height="390"
+                    src='https://www.youtube.com/embed/https://www.youtube.com/watch?v=kjBOesZCoqc&amp;index=1&amp;list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab'
+                    frameborder='0' webkitAllowFullScreen mozallowfullscreen
+                    allowFullScreen&gt;
+                &lt;/iframe&gt;
+            &lt;/span&gt;&lt;/p&gt;</content><category term="python"></category><category term="markdown"></category><category term="blog"></category></entry><entry><title>third Post</title><link href="http://betsyhcamp.github.io/staticsitesource/third-post.html" rel="alternate"></link><published>2018-06-13T09:51:00-07:00</published><updated>2017-06-13T09:51:00-07:00</updated><author><name>Elizabeth H. Camp</name></author><id>tag:betsyhcamp.github.io,2018-06-13:/staticsitesource/third-post.html</id><summary type="html">&lt;p&gt;This is the summary of the third post&lt;/p&gt;</summary><content type="html">&lt;p&gt;This is the third post!&lt;/p&gt;
+&lt;p&gt;This post contains a jupyter notebook.&lt;/p&gt;
+&lt;p&gt;
+&lt;div class="cell border-box-sizing text_cell rendered"&gt;&lt;div class="prompt input_prompt"&gt;
+&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+&lt;div class="text_cell_render border-box-sizing rendered_html"&gt;
+&lt;p&gt;Sample jupyter notebook&lt;/p&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="cell border-box-sizing code_cell rendered"&gt;
+&lt;div class="input"&gt;
+&lt;div class="prompt input_prompt"&gt;In&amp;nbsp;[2]:&lt;/div&gt;
+&lt;div class="inner_cell"&gt;
+    &lt;div class="input_area"&gt;
+&lt;div class=" highlight hl-ipython3"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;#sample code&lt;/span&gt;
+&lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s1"&gt;&amp;#39;Hey, I&lt;/span&gt;&lt;span class="se"&gt;\&amp;#39;&lt;/span&gt;&lt;span class="s1"&gt;ve coded this print statement in python&amp;#39;&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="output_wrapper"&gt;
+&lt;div class="output"&gt;
+
+
+&lt;div class="output_area"&gt;
+
+&lt;div class="prompt"&gt;&lt;/div&gt;
+
+
+&lt;div class="output_subarea output_stream output_stdout output_text"&gt;
+&lt;pre&gt;Hey, I&amp;#39;ve coded this print statement in python
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/div&gt;
+ 
+
+&lt;/p&gt;</content><category term="python"></category><category term="markdown"></category><category term="blog"></category></entry></feed>

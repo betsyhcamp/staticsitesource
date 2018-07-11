@@ -22,7 +22,7 @@ STATIC_PATHS = ['images', 'pdfs','pages']
 # Top menus
 DISPLAY_CATEGORIES_ON_MENU = True
 DISPLAY_PAGES_ON_MENU = True
-MENUITEMS = [('CV', '/pdfs/Camp_CV_7_2018.pdf')]
+MENUITEMS = [('CV', 'pdfs/Camp_CV_7_2018.pdf')]
 ARCHIVES_SAVE_AS = 'archives.html'
 DISPLAY_ARCHIVE_ON_MENU = True
 YEAR_ARCHIVE_SAVE_AS = 'posts/{date:%Y}/index.html'
@@ -60,7 +60,7 @@ IGNORE_FILES = ['.ipynb_checkpoints']
 #    'liquid_tags.include_code',
 # 'ipynb.liquid',
 
-THEME = "D:/WebsitePelican/staticsitesource/themes/pelican-bootstrap3"
+THEME = "themes/pelican-bootstrap3"
 BOOTSTRAP_THEME = 'flatly2'
 #BANNER = "/images/banner.png"
 #BANNER_ALL_PAGES = False

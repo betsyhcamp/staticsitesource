@@ -9,3 +9,4 @@ I sincerely hope that I can help other data science folks through my posts as we
 Feel free to contact me at any time if you would like to connect or if there is something I can help you with. 
 My current email address is on the top of my CV. 
 
+[a link relative to content root]({filename}../pdfs/Camp_CV_7_2018.pdf)
